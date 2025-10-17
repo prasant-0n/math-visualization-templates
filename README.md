@@ -52,7 +52,7 @@ Each template includes **stylized boxes, arrows, and highlights** to guide the l
 **Question:** Find Sec C + Cot A for a triangle with sides \(a = 5, b = 12, c = 13\).  
 **Solution Highlights:** Fraction boxes and highlight boxes used to illustrate arithmetic and ratio calculations.
 
-![Template1 Problem2](screenshots/template1_problem2.png)
+![Template1 Problem2](Screenshots/Template1_Problem2.png.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ Each template includes **stylized boxes, arrows, and highlights** to guide the l
 **Question:** A principal of ₹12,000 amounts to ₹20,736 in 3 years at compound interest. Find the rate of interest.  
 **Solution Highlights:** Step-by-step bracket breakdown, fraction simplification, and final highlighted result.
 
-![Template2 Problem1](screenshots/template2_problem1.png)
+![Template2 Problem1](Screenshots/Template2_Problem1.png.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ Each template includes **stylized boxes, arrows, and highlights** to guide the l
 **Question:** A principal of ₹5,000 amounts to ₹6,050 in 2 years at compound interest. Find the rate of interest.  
 **Solution Highlights:** Step-by-step calculations showing exponential growth and fraction simplification.
 
-![Template2 Problem2](screenshots/template2_problem2.png)
+![Template2 Problem2](Screenshots/Template2_Problem2.png.jpg)
 
 ---
 
