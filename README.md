@@ -43,7 +43,7 @@ Each template includes **stylized boxes, arrows, and highlights** to guide the l
 **Question:** Find Sec C + Cot A for a triangle with sides \(a = 7, b = 24, c = 25\).  
 **Solution Highlights:** Step-by-step calculation using Pythagorean triplet logic.
 
-![Template1 Problem1](screenshots/template1_problem1.png)
+![Template1 Problem1](Screenshots/Template1_Problem1.png.jpg)
 
 ---
 
